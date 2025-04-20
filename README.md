@@ -59,4 +59,4 @@ npm start
 
 - Any contribution is welcome. You can fork and submit a pull request.
 
-- The dataset is got from [kaggle](https://kaggle.com) from [this page](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection) by [rishabhmisra](https://rishabhmisra.github.io)
+- The dataset is got from [kaggle](https://kaggle.com) from [this page](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)
