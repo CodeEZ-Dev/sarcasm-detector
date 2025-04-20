@@ -22,7 +22,7 @@
 - Clone and cd into the repo.
 
 ```
-git clone https://github.com/k4u5h4L/sarcasm-detector.git && cd sarcasm-detector
+git clone https://github.com/CodeEZ-Dev/sarcasm-detector.git && cd sarcasm-detector
 ```
 
 - Cd into the client and install the required dependencies
